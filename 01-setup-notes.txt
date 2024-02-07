@@ -1,0 +1,4 @@
+# First Get Ollama setup on your PC / VM
+if need to setup ollama on Debian12 you can also refer to 
+https://github.com/deependhulla/gpt-debian12
+

@@ -1,0 +1,4 @@
+zulip==0.8.2
+python-dotenv==1.0.0
+tiktoken==0.3.3
+ollama
